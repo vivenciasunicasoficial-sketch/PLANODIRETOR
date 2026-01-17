@@ -1,0 +1,5 @@
+{
+  "name": "FUNCIONA FLOW VEO3 - 001",
+  "description": "An automated video production pipeline that converts scripts into a continuous sequence of AI-generated videos using Gemini Veo 3.1.",
+  "requestFramePermissions": []
+}
